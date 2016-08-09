@@ -1,0 +1,2 @@
+selenium==2.53.2
+pdfcrowd==2.7
