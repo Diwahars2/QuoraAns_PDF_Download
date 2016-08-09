@@ -1,6 +1,4 @@
 from selenium import webdriver
-from bs4 import BeautifulSoup
-import time
 import pdfcrowd
 from selenium.webdriver.common.keys import Keys
 import os
